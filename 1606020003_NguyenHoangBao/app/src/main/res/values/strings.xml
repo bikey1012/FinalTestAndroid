@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">1606020003_NguyenHoangBao</string>
+    <string name="Login">Đăng nhập</string>
+    <string name="LoginbyGoogle">Đăng nhập bằng tài khoản Google</string>
+    <string name="Password">Mật khẩu</string>
+    <string name="UserName">Tên đăng nhập</string>
+    <string name="CfPassword">Xác nhận mật khẩu</string>
+    <string name="Email">Email</string>
+    <string name="Register">Đăng kí</string>
+    <string name="title_home">Home</string>
+</resources>
